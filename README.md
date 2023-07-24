@@ -33,17 +33,19 @@ $ cd frontend
 $ npm install
 $ npm start
 ```
+### 4. Página principal
+-http://localhost:3000/
 
-### 4. Checar usuários e produtos
+### 5. Checar usuários e produtos
 
 - Abra no browser: http://localhost:4000/api/seed 
 - A porta pode mudar, verifique no log de inicialização qual a porta utilizada
 
-### 7. Admin Login
+### 6. Admin Login
 
 - Acesse http://localhost:3000/signin
 - Entre com usuário e senha, que pode ser cadastrado
 
-### 8. Sandbox Paypal
+### 7. Sandbox Paypal
 Esse projeto usa o Sandbox Paypal para teste de compras, o cadastro pode ser feito [aqui](https://developer.paypal.com/tools/sandbox/accounts/)
 
